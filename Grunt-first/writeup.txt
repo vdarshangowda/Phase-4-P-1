@@ -1,0 +1,23 @@
+project name :Building an Application Using Grunt Build Tool
+
+Tools used:
+	visual  studio code 
+	grunt.js
+	github for uploading
+
+in this project we are created the grunt file that will do some operations 
+the tasks which are included in this project
+
+1.live reload:watch 
+2.contrib-imagemin
+3.contrib-autoprefixer
+4.contrib-cssmin
+5.copy :that is backup of the css file in the destination
+6.uglifying the javascript file
+
+
+the above are the  tasks which are performed in the project i have included the screenshots also for the reference 
+
+Thank you 
+Regards,
+Darshan P v
